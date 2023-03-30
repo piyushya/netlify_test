@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["heading","document","querySelector","textContent"],"mappings":";AAAA,IAAMA,EAAUC,SAASC,cAAc,MACvCF,EAAQG,aAAe","file":"src.bdedf046.js","sourceRoot":"../src","sourcesContent":["const heading = document.querySelector('h1');\nheading.textContent += ' Netlify Test';\n"]}

@@ -1,0 +1,19 @@
+{
+  "name": "map-quest",
+  "version": "1.0.0",
+  "description": "College fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "parcel build src/index.html --experimental-scope-hoisting"
+  },
+  "author": "Piyush Yadav",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/eslint-parser": "^7.21.3",
+    "eslint": "^8.37.0",
+    "parcel-bundler": "^1.12.5",
+    "postcss-preset-env": "^8.2.0",
+    "prettier": "^2.8.7"
+  }
+}

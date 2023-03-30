@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["heading","document","querySelector","textContent"],"mappings":";AAAA,IAAMA,EAAUC,SAASC,cAAc,MACvCF,EAAQG,YAAc","file":"src.c104b7e9.js","sourceRoot":"../src","sourcesContent":["const heading = document.querySelector('h1');\nheading.textContent = 'hello00jkk';\n"]}
